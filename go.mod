@@ -1,4 +1,4 @@
-module github.com/barared28/Golang_Rest-API_CRUD_echo
+module main
 
 go 1.14
 
